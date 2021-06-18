@@ -43,7 +43,7 @@ Pour notre Arduino, voici la liste des composants que nous souhaitons utiliser :
 * capteur de distance
 * Module wifi ESP8266 (pour envoyer les données)
 * autre bouton poussoir / activation wifi pour reset le robot principal (ou réinitialisation quand lumière intense mais pas possible de manipuler la lumière pour le client de l’escape game)
-![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/img/arduino_principal.png)
+![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/blob/main/img/arduino_principal.png)
 
 
 **Distractions / Leurres** : (robots indépendants)
@@ -54,7 +54,7 @@ Pour notre Arduino, voici la liste des composants que nous souhaitons utiliser :
 * Photorésistance
 * Capteur de distance
 * Une alimentation (cable / batterie)
-![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/img/leurre_smiley_led.png)
+![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/blob/main/img/leurre_smiley.png)
 
 
 **poltergeist** :
@@ -64,4 +64,4 @@ Pour notre Arduino, voici la liste des composants que nous souhaitons utiliser :
 * photorésistance
 * capteur de distance
 * alimentation (cable / batterie)
-![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/img/leurre_poltergeist.png)
+![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/blob/main/img/leurre_poltergeist.png)
