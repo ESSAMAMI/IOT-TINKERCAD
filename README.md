@@ -54,7 +54,7 @@ Pour notre Arduino, voici la liste des composants que nous souhaitons utiliser :
 * Photorésistance
 * Capteur de distance
 * Une alimentation (cable / batterie)
-![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/blob/main/img/leurre_smiley.png)
+![alt text](https://github.com/ESSAMAMI/IOT-TINKERCAD/blob/main/img/leurre_smiley_led.png)
 
 
 **poltergeist** :
